@@ -39,3 +39,13 @@ public class inputouput {
 }
 
 ```
+
+👉 Methods of `Scanner`:
+--- 
+- `nextLine()` → string (whole line)
+- `next()` → single word
+- `nextInt()` → integer
+- `nextDouble()` → decimal
+- `nextBoolean()` → true/false
+
+

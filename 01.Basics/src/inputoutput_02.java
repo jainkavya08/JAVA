@@ -11,6 +11,6 @@ public class inputoutput_02 {
         System.out.print("Enter your age: ");
         int age = sc.nextInt();
 
-        System.out.println("Hello " + name + " your age is  " + age);
+        System.out.println("My name is " + name + " my age is " + age) ;
     }
 }

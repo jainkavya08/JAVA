@@ -48,4 +48,9 @@ public class inputouput {
 - `nextDouble()` → decimal
 - `nextBoolean()` → true/false
 
+---
+#### Backlinks
+---
+[[InputOuput_01.java]]
+[[inputoutput_02.java]]
 
